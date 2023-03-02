@@ -1,0 +1,6 @@
+body{background-color: rgb(10, 1, 18);}
+.DisplayTimer{width: 250px; height:100px;background-color:inherit;color:white;font-size: 40px;margin-top: 6%;padding-top: 10%;}
+#startBtn{width:80px;height:40px;background-color:darkgreen;color: black;border:1px solid wheat;border-radius: 20%;font-weight: bold;}
+#stopBtn{width:80px;height:40px;background-color:rgb(121, 4, 4);color: black;border:1px solid wheat;border-radius: 20%;font-weight: bold;}
+#resetBtn{width:80px;height:40px;background-color:rgb(166, 110, 6);color: black;border:1px solid wheat;border-radius: 20%;font-weight: bold;}
+.buttons{padding: 20px;}
